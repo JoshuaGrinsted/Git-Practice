@@ -1,0 +1,10 @@
+git confix --global --edit : First time, save username settings
+git init : Initialise a git repository
+git add [filename] : "stage" a file so it is ready to save
+a
+b
+c
+d
+git commit -m "Message" : "commit" (i.e Save) the files you staged
+
+git push
